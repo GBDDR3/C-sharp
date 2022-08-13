@@ -3,7 +3,6 @@
 // 7 -> да
 // 1 -> нет
 
-Console.Clear();
 Console.WriteLine("Введите чисо от 1 до 7");
 int number = Convert.ToInt32(Console.ReadLine());
 
