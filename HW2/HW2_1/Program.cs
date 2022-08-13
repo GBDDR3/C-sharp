@@ -7,10 +7,12 @@
 Console.Clear();
 Console.WriteLine("Введите трёхзначное число ");
 int number = Convert.ToInt32(Console.ReadLine());
-void FindNumber()
+
+int FindNumber(int number)
 {
 number = number %100;
 number = number / 10;
-Console.Write(number);
+return number;
 }
-FindNumber();
+int result = FindNumber(number);
+Console.WriteLine(result);
