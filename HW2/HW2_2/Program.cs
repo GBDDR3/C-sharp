@@ -6,16 +6,20 @@
 Console.Clear();
 Console.WriteLine("Введите число ");
 string number = Console.ReadLine();
-int Lnumber = number.Length;
 char FindNumber()
 {
-    if (Lnumber < 3)
-    {
-        Console.WriteLine("Третьей цифры нет");
-    }
+    int Lnumber = number.Length;
     char Simbole = number[2];
-    return Simbole;
+    if (Lnumber > 3)
+    {
+        return Simbole;
+    }
+    else
+    {
+        throw new Exception("qqq");
+    }
 }
+
 char result = FindNumber();
 Console.WriteLine(result);
 

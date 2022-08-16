@@ -1,0 +1,15 @@
+C:\Users\segal\gb.education\C-sharp\ForSeminars\bin\Debug\net6.0\ForSeminars.exe
+C:\Users\segal\gb.education\C-sharp\ForSeminars\bin\Debug\net6.0\ForSeminars.deps.json
+C:\Users\segal\gb.education\C-sharp\ForSeminars\bin\Debug\net6.0\ForSeminars.runtimeconfig.json
+C:\Users\segal\gb.education\C-sharp\ForSeminars\bin\Debug\net6.0\ForSeminars.dll
+C:\Users\segal\gb.education\C-sharp\ForSeminars\bin\Debug\net6.0\ForSeminars.pdb
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.csproj.AssemblyReference.cache
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.AssemblyInfoInputs.cache
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.AssemblyInfo.cs
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.csproj.CoreCompileInputs.cache
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.dll
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\refint\ForSeminars.dll
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.pdb
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ForSeminars.genruntimeconfig.cache
+C:\Users\segal\gb.education\C-sharp\ForSeminars\obj\Debug\net6.0\ref\ForSeminars.dll
